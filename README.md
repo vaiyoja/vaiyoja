@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaiyoja
-- 👀 I’m interested in Cpp, Java, Android, Cloud Computing (AWS)
+- 👀 I’m interested in Web Dev, Cpp, Java, Android, Cloud Computing (AWS)
 - 🌱 I’m currently learning all of the above
 - 📫 How to reach me email : vaibhaviyjagtap2904@gmail.com
 
