@@ -21,7 +21,7 @@
 - 🔒 **HTTPS** enabled for secure access  
 - 🧩 Tech used: HTML, CSS  
 
-🔗 **Repository:** Main_Portfolio  
+🔗 **Repository:** MainCraftsTech_Task1
 
 ---
 
