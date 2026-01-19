@@ -6,6 +6,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaiyoja&show_icons=true&theme=tokyonight)
+
+---
+
 ## 🛠️ Skills & Tools
 - 🌐 HTML | 🎨 CSS | ⚡ JavaScript  
 - ☁️ AWS (S3, CloudFront – Static Website Hosting)  
