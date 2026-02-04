@@ -9,12 +9,6 @@ Currently focusing on strengthening my frontend skills and cloud deployment know
 
 ---
 
-## 📊 GitHub Stats
-
-![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaiyoja&show_icons=true&theme=tokyonight)
-
----
-
 ## 🛠️ Skills & Tools
 
 ### 🌐 Web Development
